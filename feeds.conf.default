@@ -2,5 +2,16 @@ src-git packages https://git.openwrt.org/feed/packages.git;openwrt-24.10
 src-git luci https://git.openwrt.org/project/luci.git;openwrt-24.10
 src-git routing https://git.openwrt.org/feed/routing.git;openwrt-24.10
 src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-24.10
-src-git nss_packages https://github.com/qosmio/nss-packages.git;NSS-12.5-K6.x
+src-git nss_packages https://github.com/chanrio13/nss-packages.git;NSS-12.5-K6.x-wwan
 src-git sqm_scripts_nss https://github.com/qosmio/sqm-scripts-nss.git
+src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
+src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git
+src-git xray_core https://github.com/xiaorouji/Xray-core.git
+src-git passpack https://github.com/xiaorouji/openwrt-passwall-packages.git
+src-git cpufreq https://github.com/Ace1337z/openwrt-cpufreq.git
+src-git atinout https://github.com/Ace1337z/luci-app-atinout-mod.git
+src-git mihomo https://github.com/morytyann/OpenWrt-mihomo.git;main
+src-git 3ginfolite https://github.com/4IceG/luci-app-3ginfo-lite.git
+src-git modemband https://github.com/4IceG/luci-app-modemband.git
+src-git sms https://github.com/4IceG/luci-app-sms-tool-js.git
+src-git modeminfo https://github.com/solomonricky/luci-app-modeminfo.git

@@ -14,4 +14,5 @@ src-git mihomo https://github.com/morytyann/OpenWrt-mihomo.git;main
 src-git 3ginfolite https://github.com/4IceG/luci-app-3ginfo-lite.git
 src-git modemband https://github.com/4IceG/luci-app-modemband.git
 src-git sms https://github.com/4IceG/luci-app-sms-tool-js.git
-src-git modeminfo https://github.com/solomonricky/luci-app-modeminfo.git
+src-git atcommand https://github.com/4IceG/luci-app-atcommands.git
+src-git internet https://github.com/gSpotx2f/luci-app-internet-detector.git

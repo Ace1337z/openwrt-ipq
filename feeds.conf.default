@@ -16,3 +16,4 @@ src-git modemband https://github.com/4IceG/luci-app-modemband.git
 src-git sms https://github.com/4IceG/luci-app-sms-tool-js.git
 src-git atcommand https://github.com/4IceG/luci-app-atcommands.git
 src-git internet https://github.com/gSpotx2f/luci-app-internet-detector.git
+src-git modeminfo https://github.com/solomonricky/luci-app-modeminfo.git

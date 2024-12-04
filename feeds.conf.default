@@ -6,7 +6,6 @@ src-git nss_packages https://github.com/chanrio13/nss-packages.git;NSS-12.5-K6.x
 src-git sqm_scripts_nss https://github.com/qosmio/sqm-scripts-nss.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
 src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git
-src-git xray_core https://github.com/xiaorouji/Xray-core.git
 src-git passpack https://github.com/xiaorouji/openwrt-passwall-packages.git
 src-git cpufreq https://github.com/Ace1337z/openwrt-cpufreq.git
 src-git atinout https://github.com/Ace1337z/luci-app-atinout-mod.git
@@ -16,4 +15,8 @@ src-git modemband https://github.com/4IceG/luci-app-modemband.git
 src-git sms https://github.com/4IceG/luci-app-sms-tool-js.git
 src-git atcommand https://github.com/4IceG/luci-app-atcommands.git
 src-git internet https://github.com/gSpotx2f/luci-app-internet-detector.git
+src-git cpustat https://github.com/Ace1337z/luci-app-cpu-status.git
+src-git tinyfilemanager https://github.com/Ace1337z/luci-app-tinyfilemanager.git
+src-git argon https://github.com/Ace1337z/luci-theme-argon.git
+src-git argonconf https://github.com/Ace1337z/luci-app-argon-config.git
 src-git modeminfo https://github.com/solomonricky/luci-app-modeminfo.git

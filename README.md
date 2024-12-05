@@ -28,7 +28,11 @@
    ```bash
    make defconfig V=s
    ```
-7. Now run full build
+7. enter menuconfig to edit
+   ```bash
+   make menuconfig
+   ```
+8. Now run full build
    ```bash
    make download -j$(nproc) V=s
    make -j$(nproc) V=s

@@ -37,5 +37,11 @@
    make download -j$(nproc) V=s
    make -j$(nproc) V=s
    ```
-
-   
+ if want to clone package
+ ```bash
+git clone https://github.com/Ace1337z/luci-app-cpu-status.git package/feeds/luci/luci-app-cpu-status
+git clone https://github.com/Ace1337z/luci-app-tinyfilemanager.git package/feeds/luci/luci-app-tinyfilemanager   
+git clone https://github.com/Ace1337z/luci-theme-argon.git package/feeds/luci/luci-theme-argon
+git clone https://github.com/Ace1337z/luci-app-argon-config.git package/feeds/luci/luci-app-argon-config
+git clone https://github.com/solomonricky/luci-app-modeminfo.git package/feeds/luci-app-modeminfo
+```

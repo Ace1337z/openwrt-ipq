@@ -15,8 +15,4 @@ src-git modemband https://github.com/4IceG/luci-app-modemband.git
 src-git sms https://github.com/4IceG/luci-app-sms-tool-js.git
 src-git atcommand https://github.com/4IceG/luci-app-atcommands.git
 src-git internet https://github.com/gSpotx2f/luci-app-internet-detector.git
-src-git cpustat https://github.com/Ace1337z/luci-app-cpu-status.git
-src-git tinyfilemanager https://github.com/Ace1337z/luci-app-tinyfilemanager.git
-src-git argon https://github.com/Ace1337z/luci-theme-argon.git
-src-git argonconf https://github.com/Ace1337z/luci-app-argon-config.git
-src-git modeminfo https://github.com/solomonricky/luci-app-modeminfo.git
+
